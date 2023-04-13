@@ -22,7 +22,7 @@ def apply_watermark():
 # saves the image at project directory
 def save_image():
     image_to_save = photo_frame_widget.image.convert('RGB')
-    image_to_save.save('watermarked_image.jpg')
+    image_to_save.save('images/watermarked_image.jpg')
 
 
 # Set up window
