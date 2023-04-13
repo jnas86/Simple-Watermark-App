@@ -18,6 +18,8 @@ Some useful information about the application:
 
 ## Usage Example
 A brief example of the GUI App is demonstrated below:
+![Alt text](/images/original_photo.png "Before watermark")
+![Alt text](/images/original_photo.png "After watermark")
 
 
 ## Technologies - Reqirements
