@@ -2,7 +2,7 @@
 * [Simple Watermark App (Project title)](#watermark-app)
 * [App info](#app-info)
 * [Usage Example](#usage-example)
-* [Technologies](#technologies-requirements)
+* [Technologies Requirements](#technologies-requirements)
 * [Pending changes](#pending-changes)
 * [Setup](#setup)
 
