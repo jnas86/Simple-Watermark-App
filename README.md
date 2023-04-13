@@ -22,7 +22,7 @@ A brief example of the GUI App is demonstrated below:
 ![Alt text](/images/image_watermarked.png "After watermark")
 
 
-## Technologies - Reqirements
+## Technologies-Reqirements
 Project is created with:
 * Python version: 3.10.2
 * PyCharm version: 2021.3.2 (Community Edition)
